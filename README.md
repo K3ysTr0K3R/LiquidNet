@@ -19,6 +19,6 @@ Contributions are welcome! Feel free to submit pull requests, report issues, or 
 LiquidNet is intended for ethical hacking and pentesting purposes only. Ensure compliance with legal regulations and acquire proper authorization before using this tool.
 
 ### Support 💬
-For any queries or support, please [contact me on Instagram](@1_k3ystr0k3r_1).
+For any queries or support, please [contact me here](@1_k3ystr0k3r_1).
 
 Happy Hacking! 🖥️🛡️
