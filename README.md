@@ -8,7 +8,7 @@ LiquidNet is an advanced IPv4 grabber and scanner designed to help pentesters ga
 - **Pentesting Support:** Ideal for security professionals and ethical hackers.
 
 ### Usage 🚀
-1. Clone the repository: `git clone https://github.com/LiquidNet.git`
+1. Clone the repository: `https://github.com/K3ysTr0K3R/LiquidNet.git`
 2. Install dependencies: `pip install requirements.txt`
 3. Run LiquidNet: `python3 liquidnet.py -n 10000`
 
